@@ -5,8 +5,8 @@ clientsNode {
   ws {
     checkout scm
 
-    npmUpdateOrganisationDependencies{
-      organisation = 'fabric8-ui'
-    }
+    // npmUpdateOrganisationDependencies{
+    //   organisation = 'fabric8-ui'
+    // }
   }
 }

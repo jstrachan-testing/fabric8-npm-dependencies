@@ -6,8 +6,8 @@
     "fabric8-runtime-console": "0.5.0",
     "ngx-base": "1.2.2",
     "ngx-fabric8-wit": "6.15.3",
-    "ngx-login-client": "0.6.5",
-    "ngx-widgets": "0.10.3"
+    "ngx-login-client": "0.6.7",
+    "ngx-widgets": "0.10.4"
   },
   "license": "MIT"
 }
