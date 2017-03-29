@@ -7,7 +7,7 @@
     "fabric8-runtime-console": "0.8.7",
     "ngx-base": "1.2.3",
     "ngx-fabric8-wit": "6.16.5",
-    "ngx-login-client": "0.6.11",
+    "ngx-login-client": "0.6.12",
     "ngx-widgets": "0.10.5",
     "fabric8-stack-analysis-ui": "0.0.4"
   },
