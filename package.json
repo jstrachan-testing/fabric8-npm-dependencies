@@ -7,7 +7,7 @@
     "fabric8-npm-pipeline-test-prj": "0.0.3",
     "ngx-base": "2.1.0", 
     "ngx-fabric8-wit": "6.18.11",
-    "ngx-login-client": "0.6.33",
+    "ngx-login-client": "1.1.5",
     "ngx-widgets": "2.0.3",
     "fabric8-stack-analysis-ui": "0.7.0"
   },
