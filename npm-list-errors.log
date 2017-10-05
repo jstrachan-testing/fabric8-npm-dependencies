@@ -1,7 +1,0 @@
-npm ERR! missing: fabric8-planner@0.35.5, required by fabric8-npm-dependencies@0.0.0-development
-npm ERR! missing: fabric8-npm-pipeline-test-prj@1.2.5, required by fabric8-npm-dependencies@0.0.0-development
-npm ERR! missing: ngx-base@2.1.0, required by fabric8-npm-dependencies@0.0.0-development
-npm ERR! missing: ngx-fabric8-wit@6.18.11, required by fabric8-npm-dependencies@0.0.0-development
-npm ERR! missing: ngx-login-client@1.1.5, required by fabric8-npm-dependencies@0.0.0-development
-npm ERR! missing: ngx-widgets@2.0.3, required by fabric8-npm-dependencies@0.0.0-development
-npm ERR! missing: fabric8-stack-analysis-ui@0.7.0, required by fabric8-npm-dependencies@0.0.0-development
